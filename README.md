@@ -2,6 +2,8 @@
 
 ## Capstone Project Proposal
 
+##Proposed Team Name - TEAM_D_Data606
+
 Author : Sushrutha DT and Srikeerthi Upperla 
 
 # FAKE NEWS CLASSIFICATION AND PREDICTION
@@ -129,3 +131,29 @@ _**9.	What outcomes do you intend to achieve (better understanding of problems, 
 
 This project aims to develop a solution that users can utilize to detect and filter out news containing false and misleading information. The plan is to carefully select features to identify fake posts/news.
 
+_**10.	Team Responsibility**_
+
+
+Sri Keerthi - Team Captain
+
+•	 Documentation
+
+•	 Data EDA
+
+•	 Data Cleanup
+
+•	 Implementing NLP algorithms
+
+
+Sushruth - Team Member
+
+•	 Documentation
+
+•	 Data EDA
+
+•	 Data Cleanup
+
+•	 Implementing Supervised classification algorithms and tuning 
+
+
+Reason for Pairing : We became acquainted as mutual friends while assisting one of our mutual friends with her thesis psychology project on misinformation, which brought us together. And we were talking about how much it has immensely affected our personal lives as a result of this. We later discovered that we were enrolled in your Data 606 capstone course. Later, we came to the conclusion that we should collaborate and work on fake news detection.
